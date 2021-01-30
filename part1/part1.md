@@ -86,4 +86,6 @@ for (var key in student) {
 
 17. How are you? because 2 == true is false, since true ==1, but 2 == 2.
 
-18. 
+18. see file
+
+
