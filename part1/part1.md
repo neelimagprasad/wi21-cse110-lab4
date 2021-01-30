@@ -80,7 +80,7 @@ for (var key in student) {
 - C) true becuase '2' and 2 are the same value, but different types
 - D) false because '2' and 2 are not the same type
 - E) false because true = 1 is not equal to 2
-- F) true because Boolean(2) is true, whihc is the same as true
+- F) true because Boolean(2) is true, which is the same as true
 
 16. The == operator checks if the two operands are the same value or not, regardless of type. The === operator returns true if two varaibles are of the same type, are not numeric, and have the same value.
 
@@ -88,4 +88,9 @@ for (var key in student) {
 
 18. see file
 
+19. The result will be [6,8,10]. 
 
+ModifyArray takes in [1,2,3] and the callback doSomething. Then, the value that is pushed into newArray is doSomething(array[i], x times 2), which returns 2(array[i]+2) for each element in the array. 
+[1,2,3] --> [1+2,2+2,3+2]2 = [6,8,10]
+
+20. see file
