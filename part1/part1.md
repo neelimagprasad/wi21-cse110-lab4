@@ -83,4 +83,7 @@ for (var key in student) {
 - F) true because Boolean(2) is true, whihc is the same as true
 
 16. The == operator checks if the two operands are the same value or not, regardless of type. The === operator returns true if two varaibles are of the same type, are not numeric, and have the same value.
- 
+
+17. How are you? because 2 == true is false, since true ==1, but 2 == 2.
+
+18. 
