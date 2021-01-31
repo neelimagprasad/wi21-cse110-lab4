@@ -14,8 +14,7 @@ Once it finishes downloading, answer the following questions:
 - citylots.json
 
 2. Which file initiated the download of the new file?
-- https://cse110lab4.herokkuapp.com/part2.js
-
+- part2.js:2
 3. What is its file size?
 - 11.7 mb
 4. How long did it take to download?
